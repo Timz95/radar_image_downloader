@@ -1,0 +1,8 @@
+C:\Users\theus\Desktop\Buienradar\Buienradar\bin\Release\Buienradar.exe.config
+C:\Users\theus\Desktop\Buienradar\Buienradar\bin\Release\Buienradar.exe
+C:\Users\theus\Desktop\Buienradar\Buienradar\bin\Release\Buienradar.pdb
+C:\Users\theus\Desktop\Buienradar\Buienradar\obj\Release\Buienradar.MainForm.resources
+C:\Users\theus\Desktop\Buienradar\Buienradar\obj\Release\Buienradar.csproj.GenerateResource.Cache
+C:\Users\theus\Desktop\Buienradar\Buienradar\obj\Release\Buienradar.exe
+C:\Users\theus\Desktop\Buienradar\Buienradar\obj\Release\Buienradar.pdb
+C:\Users\theus\Desktop\Buienradar\Buienradar\obj\Release\Buienradar.csprojResolveAssemblyReference.cache

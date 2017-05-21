@@ -1,0 +1,18 @@
+C:\Users\Tim\Desktop\Programmeren\C#\Buienradar\Buienradar\bin\Debug\Buienradar.exe.config
+C:\Users\Tim\Desktop\Programmeren\C#\Buienradar\Buienradar\bin\Debug\Buienradar.exe
+C:\Users\Tim\Desktop\Programmeren\C#\Buienradar\Buienradar\bin\Debug\Buienradar.pdb
+C:\Users\Tim\Desktop\Programmeren\C#\Buienradar\Buienradar\obj\Debug\Buienradar.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\Programmeren\C#\Buienradar\Buienradar\obj\Debug\Buienradar.exe
+C:\Users\Tim\Desktop\Programmeren\C#\Buienradar\Buienradar\obj\Debug\Buienradar.pdb
+C:\Users\Tim\Desktop\Programmeren\C#\Buienradar\Buienradar\obj\Debug\Buienradar.MainForm.resources
+C:\Users\Tim\Desktop\Programmeren\C#\Buienradar\Buienradar\obj\Debug\Buienradar.csproj.GenerateResource.Cache
+W:\Werk_Tim\Eigen Software\C#\Weer\Buienradar\Buienradar\bin\Debug\Buienradar.exe.config
+W:\Werk_Tim\Eigen Software\C#\Weer\Buienradar\Buienradar\obj\Debug\Buienradar.exe
+W:\Werk_Tim\Eigen Software\C#\Weer\Buienradar\Buienradar\obj\Debug\Buienradar.pdb
+C:\Users\theus\Desktop\Buienradar\Buienradar\bin\Debug\Buienradar.exe.config
+C:\Users\theus\Desktop\Buienradar\Buienradar\bin\Debug\Buienradar.exe
+C:\Users\theus\Desktop\Buienradar\Buienradar\bin\Debug\Buienradar.pdb
+C:\Users\theus\Desktop\Buienradar\Buienradar\obj\Debug\Buienradar.MainForm.resources
+C:\Users\theus\Desktop\Buienradar\Buienradar\obj\Debug\Buienradar.csproj.GenerateResource.Cache
+C:\Users\theus\Desktop\Buienradar\Buienradar\obj\Debug\Buienradar.exe
+C:\Users\theus\Desktop\Buienradar\Buienradar\obj\Debug\Buienradar.pdb
