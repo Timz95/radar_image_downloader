@@ -64,10 +64,7 @@ namespace Buienradar
 			do
 			{
 				count = radarStream.Read(buffer, 0, buffer.Length);
-				if (count != 0)
-				{
-					stream.Write(buffer, 0, count);
-				}
+				stream.Write(buffer, 0, count);
 			}
 			while (count > 0);
 		}
